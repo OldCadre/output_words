@@ -5,4 +5,5 @@ int main()
 	cout << "s";
 	cout << endl;
 	cout << "q";
+	cout << "w";
 }
